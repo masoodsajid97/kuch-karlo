@@ -1,0 +1,177 @@
+header{
+    background-color: #316dc3;
+    padding: 10px;
+    color: white;
+    /* justify-content: space-around; */
+    height: 50px;
+}
+
+ul li{
+    display: inline;
+    padding: 4px;
+    font-size: 14px;
+}
+#buttons button{
+    border-bottom-style: solid;
+    border-right-style: solid ;
+    border-color: #427900; 
+    background-color: white;
+    color: #427900;
+    height: 30px;
+    width: 80px;
+    padding-left: 8px;
+    font-size: 11px;
+}
+#navi img{
+    margin: 10px;
+    padding-left: 25px;
+    /* justify-content: space-around; */
+}
+.one a{
+    margin: 10px;
+    padding: 5px; 
+    color: grey;
+    font-family: 'Arial', Helvetica, sans-serif;
+    font-size: smaller;
+    font-weight: normal;   
+}
+a:hover {
+    background-color:#316ec3; 
+}
+.red .one .two :hover{
+    background-color: #316dc3;
+}
+.marq{
+    background-color: #316dc3;
+}
+.intro{
+    color: #316dc3;
+    font-size: xx-large;
+    font-weight: 600;
+    font-family: aerial;
+}
+.duction{
+    color: #427900;
+    font-size: xx-large;
+    font-weight: 600;
+    font-family: aerial;
+}
+.who{
+    background-color: whitesmoke;
+}
+.text{
+    text-align: center;
+    color: #427900;
+    
+    margin: 20px;
+    max-width: 100%;
+}
+.para{
+    color: gray;
+    font-size: medium;
+    font-weight: 350;
+}
+.anim{
+    background-color: #2e39cf;
+    /* margin: 20px auto; */
+    padding: 70px;
+    height: 280px;
+    /* width: 1500px; */
+    /* position: relative; */
+    font-size: 10px;
+    min-width: 100%;
+    
+}
+.khaana{
+    font-size: 15px;
+}
+.pehla{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+image1{
+    text-align: center;
+}
+.what{
+    text-align: center;
+}
+.online{
+    display: table-cell;
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+    height: 200px;
+    width: 350px;
+    margin: 5em;
+    padding: 40px;
+    text-align: center;
+    background-color: white;
+    box-shadow: 2px 10px 20px 2px #888888;
+}
+.onlinetext{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #316dc3;
+    font-size: 1.5em;
+    font-weight: 800;
+}
+.wheat{
+    background-color: whitesmoke;
+    min-width: 100%;
+    
+}
+.whatwe{
+    display: table;
+    border-spacing: 70px;
+    margin-top: -50px;
+}
+.hepatitis{
+    background-color: whitesmoke;
+    height: 70px;
+    width: 370px;
+    margin: 2px;
+    padding: 20px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: thistle;
+    font-family: 'Merriweather', serif;
+    color: #2e39cf;
+    
+}
+.h{
+    display: inline;
+    font-weight: 550;
+    font-size: medium;
+}
+.mis{
+    font-family: Merriweather, 'serif';
+    color: #316dc3;
+    font-weight: 800;
+}
+.dash{
+    color: #427900;
+}
+pc{
+    margin-left: 20px;
+    padding: 300px;
+}
+str{
+    font-weight: bolder;
+}
+.ras{
+    margin: 20px;
+    padding: 6px;    
+}
+.foot{
+    background-color: rgb(20, 19, 19);
+    color: grey;
+    /* margin: 150px; */
+    min-width: 100%;
+    display: table;
+    font-size: 14px;
+    padding: 100px;
+    height: 300px;
+
+}
+.use{
+    color: white;
+    font-weight: bold;
+}
